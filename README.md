@@ -1,5 +1,4 @@
 ### Hi there 👋, I'am Alexander Bonetskiy, Java developer.
-Looking for the job right now, my cv - https://github.com/alexbonetskiy/CV
 
 <!--
 **alexbonetskiy/alexbonetskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
